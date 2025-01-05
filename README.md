@@ -43,3 +43,7 @@ The output includes visualizations of clusters and insights into customer segmen
 - Implementing hierarchical clustering and DBSCAN for comparison.
 - Automating identifying customer label for future data by automation.
 - Adding dashboards for interactive visualization.
+
+## Resources  
+- Online retail mining paper: [https://link.springer.com/article/10.1057/dbm.2012.17](https://link.springer.com/article/10.1057/dbm.2012.17)  
+- YouTube video: [https://www.youtube.com/watch?v=afPJeQuVeuY&t=5235s](https://www.youtube.com/watch?v=afPJeQuVeuY&t=5235s)
