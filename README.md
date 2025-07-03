@@ -46,4 +46,3 @@ The output includes visualizations of clusters and insights into customer segmen
 
 ## Resources  
 - Online retail mining paper: [https://link.springer.com/article/10.1057/dbm.2012.17](https://link.springer.com/article/10.1057/dbm.2012.17)  
-- YouTube video: [https://www.youtube.com/watch?v=afPJeQuVeuY&t=5235s](https://www.youtube.com/watch?v=afPJeQuVeuY&t=5235s)
